@@ -24,6 +24,7 @@ import sys
 import math
 import tempfile
 import warnings
+import ultralytics
 
 # Optional UI/runtime imports
 try:
